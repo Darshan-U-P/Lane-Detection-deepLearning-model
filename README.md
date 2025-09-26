@@ -128,7 +128,7 @@ gradio   # for UI
 ---
 
 ## 👤 Author
-Darshan — Lane Detection Tiny U-Net Project (training, evaluation, deployment).
+Darshan U P — Lane Detection Tiny U-Net Project (training, evaluation, deployment).
 
 ---
 
