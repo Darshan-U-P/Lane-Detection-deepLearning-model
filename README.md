@@ -116,7 +116,7 @@ python app.py
 ---
 
 ## 📄 Requirements
-Minimal `requirements.txt`:
+Minimal `req.txt`:
 ```
 numpy
 opencv-python
