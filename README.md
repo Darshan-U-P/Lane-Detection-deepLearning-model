@@ -133,7 +133,7 @@ Darshan U P — Lane Detection Tiny U-Net Project (training, evaluation, deploym
 ---
 
 ## 📜 License & Acknowledgements
-- Code: MIT (you can change if needed)  
+- Code: MIT   
 - Dataset: TuSimple Lane Detection (under their license/terms)  
 - Thanks: TuSimple authors, PyTorch team, Gradio team  
 
